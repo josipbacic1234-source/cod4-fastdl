@@ -1,0 +1,40 @@
+===========================
+Map Title : BJWiFi Port
+Map Version : 1.00
+Creator : jerkan
+E-mail : jerkan@net.hr
+
+Date : November 2010
+============================
+
+
+Map version: 1.00
+
+
+===========================
+Game : Call of Duty 4
+
+Supported Gametype 
+: Deathmatch
+: Team Deathmatch
+: Domination
+: Head Quarters
+: Search & Destroy
+: Sabotage
+: and all OW gametypes
+
+ 
+Map Size : Medium
+
+
+============================
+Description: 
+
+A remake of the COD2 map Port by jerkan.
+
+=============================
+Installation Instructions:
+
+Place all your files in the "C:/Program Files/Activision/Call of Duty 4 - Modern Warfare/usermaps/mp_mapname" directory.
+If the folder does not exist, create it.
+
